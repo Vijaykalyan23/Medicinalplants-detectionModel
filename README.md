@@ -132,11 +132,4 @@ We would like to express our gratitude to the creators of the Indian Medicinal L
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 
-## Contact
-If you have any questions, suggestions, or feedback, feel free to contact me:
-
-:email: **Email:** logeshwaranks01@gmail.com
-
-**LinkedIn:** [logeshwaran-ks](https://www.linkedin.com/in/logeshwaran-ks/)
-
 **Thank You for Checking Out This Project!**  :smile:
